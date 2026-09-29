@@ -1,0 +1,9 @@
+# Goal: absolute position of the waypoint
+float64 x
+float64 y
+---
+# Result: time taken to reach the waypoint
+uint64 duration   # nanoseconds
+---
+# Feedback: remaining distance to the waypoint
+float64 distance

@@ -1,0 +1,4 @@
+# Reset moving_turtle to its starting position
+# (request is empty)
+---
+bool success   # true if the turtle was moved back
